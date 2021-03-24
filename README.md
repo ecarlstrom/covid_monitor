@@ -6,7 +6,7 @@ The simplest way is to download the zipped version from (link here) and unpack i
 
 If you prefer a more manual method, you can download this repository and do one of two things:
 
-- Run `/app/dist/main.exe` to access the same executable file.
+- Run `/app/dist/main.exe` via terminal to access the same executable file.
 - Install Python (https://www.python.org/downloads/), open up a terminal window, and run `python main.py` from the `/app` directory. Note that you will additionally need to install all required dependencies; a list of these is provided for convenience in `/app/setup.py`.
 
 ## Basic Features
